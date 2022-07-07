@@ -1,0 +1,76 @@
+.top-intro{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: .5rem;
+    padding: 3rem 0 1rem 0;
+}
+
+.main-class{
+    border-radius: 20px;
+    margin: 10px auto 10px auto;
+    width: 70%;
+}
+
+.image{
+    float: left;
+    margin-right: 3rem;
+    width: 450px;
+
+}
+
+.product-name{
+    color: #2C3639;
+    font-family: 'Rozha One', serif;
+    font-size: 3.4rem;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0;
+}
+
+p{
+    color: gray;
+    font-size: 1.7rem;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.details{
+    float: left;
+    margin-top: 1rem;
+    width: 30%;
+}
+
+.description{
+    font-family: 'Martel Sans', sans-serif;
+    font-size: 1.3rem;
+}
+
+.price{
+    margin-top: 3rem;
+}
+
+.price-tag{
+    color: #256e45;
+    display: inline;
+    font-family: 'Orelega One', cursive;
+    font-size: 3.4rem;
+    font-weight: normal;
+}
+
+.previous-price{
+    bottom: 0.4rem;
+    font-size: 1.4rem;
+    display: inline;
+    position: relative;
+    left: 2.5rem;
+    text-decoration: line-through;
+}
+
+.button{
+    background-color: white;
+    border-radius: 0.4rem;
+    color: black;
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.3rem;
+    margin: 50px auto 40px auto;
+    padding: 0.6rem 3.5rem 0.6rem 3.5rem;
+}
